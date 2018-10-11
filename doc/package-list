@@ -1,0 +1,12 @@
+com.lpl.browser
+com.lpl.config
+com.lpl.device
+com.lpl.driver
+com.lpl.ostype
+com.lpl.service
+com.lpl.test
+com.lpl.testdata
+com.lpl.testframeworktype
+com.lpl.thread
+com.lpl.utils
+com.lpl.utils.impl
